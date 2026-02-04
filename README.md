@@ -15,11 +15,11 @@ Compensação Financeira pela Exploração de Recursos Minerais (CFEM)	| CFEM | 
 Controle de Trâmite de Processos (SICOP)	| SICOP | metadados-sicop.ods	| /SICOP	| /SICOP
 Declaração de Investimentos em Pesquisa Mineral (DIPEM)	| DIPEM | metadados-dipem.ods	| /DIPEM	| /DIPEM
 Dívida Ativa (SDA)	| SDA | metadados-sda.ods	| /PROJUR	| /SDA
-Informações Geográficas da Mineração (SIGMINE)	| SIGMINE | 	| /SIGMINE	| /SIGMINE
-Oferta Pública e Leilão de Áreas (SOPLE)	| SOPLE | 	| /SOPLE	| /SOPLE
-Participação e Controle Social (Participa ANM)	| PARTICIPA-ANM | 	| /PARTICIPA-ANM	| /PARTICIPA-ANM
-Protocolo Digital (PD)	| PD | 	| /PD	| /PD
-Taxa Anual por Hectare (TAH)	| TAH | 	| /ARRECADACAO	| /TAH
+Informações Geográficas da Mineração (SIGMINE)	| SIGMINE | metadados-sigmine.ods	| /SIGMINE	| /SIGMINE
+Oferta Pública e Leilão de Áreas (SOPLE)	| SOPLE | metadados-sople.ods	| /SOPLE	| /SOPLE
+Participação e Controle Social (Participa ANM)	| PARTICIPA-ANM | metadados-participa-anm.ods	| /PARTICIPA-ANM	| /PARTICIPA-ANM
+Protocolo Digital (PD)	| PD | metadados-pd.ods	| /PD	| /PD
+Taxa Anual por Hectare (TAH)	| TAH | metadados-tah.ods	| /ARRECADACAO	| /TAH
 
 1. https://app.anm.gov.br/dadosabertos
 2. https://dadosabertos.anm.gov.br
