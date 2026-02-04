@@ -12,9 +12,9 @@ Barragens da Mineração (SIGBM)	| SIGBM | metadados-sigbm.ods	| /BARRAGEM	| /SI
 Cadastro Mineiro (SCM)	| SCM | metadados-scm.ods	| /SCM	| /SCM
 Cadastro Mineiro (SCM)	| SCM | metadados-microdados-scm.ods	| /SCM/microdados	| /SCM/microdados
 Compensação Financeira pela Exploração de Recursos Minerais (CFEM)	| CFEM | metadados-cfem.ods	| /ARRECADACAO	| /CFEM
-Controle de Trâmite de Processos (SICOP)	| SICOP | 	| /SICOP	| /SICOP
-Declaração de Investimentos em Pesquisa Mineral (DIPEM)	| DIPEM | 	| /DIPEM	| /DIPEM
-Dívida Ativa (SDA)	| SDA | 	| /PROJUR	| /SDA
+Controle de Trâmite de Processos (SICOP)	| SICOP | metadados-sicop.ods	| /SICOP	| /SICOP
+Declaração de Investimentos em Pesquisa Mineral (DIPEM)	| DIPEM | metadados-dipem.ods	| /DIPEM	| /DIPEM
+Dívida Ativa (SDA)	| SDA | metadados-sda.ods	| /PROJUR	| /SDA
 Informações Geográficas da Mineração (SIGMINE)	| SIGMINE | 	| /SIGMINE	| /SIGMINE
 Oferta Pública e Leilão de Áreas (SOPLE)	| SOPLE | 	| /SOPLE	| /SOPLE
 Participação e Controle Social (Participa ANM)	| PARTICIPA-ANM | 	| /PARTICIPA-ANM	| /PARTICIPA-ANM
