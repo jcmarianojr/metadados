@@ -6,11 +6,12 @@ Arquivos de metadados dos dados abertos da Agência Nacional de Mineração.
 
 Conjunto de dados | Sigla | Arquivo de metadados | Endereço antigo (1) |	Endereço novo (2)
 --- | --- | --- | --- | ---
-Anuário Mineral Brasileiro (AMB)	| AMB |  | /AMB	| /AMB
-Avaliação de Desempenho (SAD)	| SAD | 	| /SAD	| /SAD
-Barragens da Mineração (SIGBM)	| SIGBM | 	| /BARRAGEM	| /SIGBM
-Cadastro Mineiro (SCM)	| SCM | 	| /SCM	| /SCM
-Compensação Financeira pela Exploração de Recursos Minerais (CFEM)	| CFEM | 	| /ARRECADACAO	| /CFEM
+Anuário Mineral Brasileiro (AMB)	| AMB | metadados-amb.ods | /AMB	| /AMB
+Avaliação de Desempenho (SAD)	| SAD | metadados-sad.ods	| /SAD	| /SAD
+Barragens da Mineração (SIGBM)	| SIGBM | metadados-sigbm.ods	| /BARRAGEM	| /SIGBM
+Cadastro Mineiro (SCM)	| SCM | metadados-scm.ods	| /SCM	| /SCM
+Cadastro Mineiro (SCM)	| SCM | metadados-microdados-scm.ods	| /SCM/microdados	| /SCM/microdados
+Compensação Financeira pela Exploração de Recursos Minerais (CFEM)	| CFEM | metadados-cfem.ods	| /ARRECADACAO	| /CFEM
 Controle de Trâmite de Processos (SICOP)	| SICOP | 	| /SICOP	| /SICOP
 Declaração de Investimentos em Pesquisa Mineral (DIPEM)	| DIPEM | 	| /DIPEM	| /DIPEM
 Dívida Ativa (SDA)	| SDA | 	| /PROJUR	| /SDA
